@@ -13,3 +13,6 @@ The Vrinda store owner wants to create an annual sales report for 2022. So that,
 7. Which channel is contributing to maximum sales ?
 8. Highest selling category ?,etc.
 ## Dashboard
+![image](https://github.com/user-attachments/assets/ac2da3ba-21be-449c-bfc6-b8e7b09cbd2b)
+![image](https://github.com/user-attachments/assets/0ec82ae2-4d83-4ebd-beb0-885f8c566bf4)
+
